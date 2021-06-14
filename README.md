@@ -20,17 +20,18 @@
  <img alt="Discord" src="https://img.shields.io/badge/문송1120-%237289DA.svg?style=for-thebadge&logo=discord&logoColor=white"/>
   &nbsp;&nbsp;&nbsp;
   <p align="center" align="right">
-  	<img alt="Slack" src="https://img.shields.io/badge/문송-4A154B?style=for-thebadge&logo=slack&logoColor=white" />
+  	<img alt="Slack" src="https://img.shields.io/badge/문송-4A154B?style=for-thebadge&logo=slack&logoColor=white"/>
 </a>&nbsp;&nbsp;&nbsp;
- <a href="https://www.facebook.com/profile.php?id=100007886291523"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-thebadge&logo=Facebook&logoColor=white"/>&nbsp;&nbsp;&nbsp;</a>
+ <a href="https://www.facebook.com/profile.php?id=100007886291523"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-thebadge&logo=Facebook&logoColor=white"/>&nbsp;&nbsp;&nbsp;
   
-  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-thebadge&logo=gmail&logoColor=white" />
+  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-thebadge&logo=gmail&logoColor=white"/>
 
-![MoonSong's github stats](https://github-readme-stats.vercel.app/api?username=Msong1107&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Msong1107&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </p>
+  <p align="center" align="right">
+ 
+ 
+ ![MoonSong's github stats](https://github-readme-stats.vercel.app/api?username=Msong1107&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)</p>
 <!--  
 **Msong1107/Msong1107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 N
