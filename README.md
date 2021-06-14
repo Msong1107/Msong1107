@@ -1,6 +1,10 @@
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Song!&fontAlign=80&fontAlignY=40&color=gradient)
 <h1 align="center">👋 Hi there, </h1>
+ <p align="center">
+😏 my name is MoonSong
+   <p align="center">☁ I am majoring in AWS.
+ <p align="center">🏫 I'm a student in Gwangju Software Meister highschool.
 
 <h3 align="center">✨ Language skil ✨ </h3>
  <p align="center">
