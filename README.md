@@ -22,7 +22,7 @@
   <p align="center" align="right">
   	<img alt="Slack" src="https://img.shields.io/badge/문송-4A154B?style=for-thebadge&logo=slack&logoColor=white" />
 </a>&nbsp;&nbsp;&nbsp;
- <a href="https://www.facebook.com/profile.php?id=100007886291523"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-thebadge&logo=Facebook&logoColor=white"/>&nbsp;&nbsp;&nbsp;
+ <a href="https://www.facebook.com/profile.php?id=100007886291523"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-thebadge&logo=Facebook&logoColor=white"/>&nbsp;&nbsp;&nbsp;</a>
   
   <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-thebadge&logo=gmail&logoColor=white" />
 
