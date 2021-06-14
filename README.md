@@ -1,9 +1,16 @@
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Song!&fontAlign=80&fontAlignY=40&color=gradient)
-
+# <center> ✨| **Language skil**
+ <p align="center">
+<img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img alt="HTML5" src="https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+</p>
+ # <center> 📱| **SNS**
 <!--  
 **Msong1107/Msong1107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+N
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
